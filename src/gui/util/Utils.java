@@ -1,7 +1,5 @@
 package gui.util;
 
-import java.text.ParseException;
-
 import javafx.event.ActionEvent;
 import javafx.scene.Node;
 import javafx.stage.Stage;
